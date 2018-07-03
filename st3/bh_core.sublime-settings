@@ -1,13 +1,13 @@
 {
-		// Show brackets in the minimap.
-		"show_in_minimap": true,
+    // Show brackets in the minimap.
+    "show_in_minimap": true,
     // When only either the left or right bracket can be found
     // this defines if the unmatched bracket should be shown.
     "show_unmatched": true,
-		// Experimental: Creates a visible bar at the beginning of all lines between
+    // Experimental: Creates a visible bar at the beginning of all lines between
     // multiline bracket spans.
     "content_highlight_bar": false,
- 		// Enable high visibility by default when sublime starts up
+    // Enable high visibility by default when sublime starts up
     "high_visibility_enabled_by_default": false,
     // High visibility style and color for high visibility mode
     // The available options are solid, outline, underline, thin_underline, squiggly, and stippled
