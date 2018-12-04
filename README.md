@@ -2,6 +2,7 @@
 ========
 
 * Sublime Text 3
+* VIM
 
 Special Thanks
 ------
