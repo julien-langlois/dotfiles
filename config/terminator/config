@@ -1,0 +1,26 @@
+[global_config]
+  window_state = maximise
+  always_split_with_profile = True
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#282828"
+    background_darkness = 0.95
+    cursor_color = "#aaaaaa"
+    cursor_color_fg = False
+    font = FiraCode Nerd Font 9
+    foreground_color = "#839496"
+    show_titlebar = False
+    scrollbar_position = hidden
+    use_custom_command = True
+    custom_command = /usr/bin/zsh
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
